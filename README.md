@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/diva ahmad pradana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diva ahmad pradana" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/diva ahmad pradana" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="diva ahmad pradana" height="30" width="40" /></a>
 <a href="https://instagram.com/divaa.kt_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="divaa.kt_" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/divaisreal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="divaisreal" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/Bt3C8gZdbr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/Bt3C8gZdbr" height="30" width="40" /></a>
