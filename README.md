@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Javascript , React , Laravel ,**
 
-- 💬 Currently diving into the world of **cyber security** to enhance my technical skills.
+- 💬 Currently diving into the world of **cyber security** 
 
-- 🎨 A fan of **graphic design** and skilled with **Adobe software** for creative projects.
+- 🎨 A fan of **graphic design** and skilled with **Adobe software** 
 
 - 📫 How to reach me **divaahmadpradana72@gmail.com**
 
