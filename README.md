@@ -14,7 +14,6 @@
 - ⚡ Fun fact **I really like playing Games**
 
 <h3 align="left">Languages and Tools:</h3>
-<h4 align="left">🌐 Web Development</h4>
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" />
