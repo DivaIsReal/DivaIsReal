@@ -41,8 +41,7 @@
 
 ---
 
-<p >< img align = "left" src = "https://github-readme-stats.vercel.app/api/top-langs?username=divaisreal&show_icons=true&locale=en&layout=compact" alt =" divaisreal "/ >< / p >
-
-<p > & nbsp; < img align = "center" src = "https://github-readme-stats.vercel.app/api?username=divaisreal&show_icons=true&locale=en" alt =" divaisreal "/ >< / p >
-
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=DivaIsReal&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DivaIsReal&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
