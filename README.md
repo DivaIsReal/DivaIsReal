@@ -40,7 +40,7 @@
 </p>
 
 ---
-
+<br>
 
 # <h3>GitHub Stats</h3>
 ![](https://github-readme-stats.vercel.app/api?username=DivaIsReal&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
