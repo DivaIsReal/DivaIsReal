@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **Javascript , React , Laravel ,**
 
-- 💬 Currently diving into the world of **cyber security** 
+- 💬 Currently diving into the world of **Cyber Security** 
 
-- 🎨 A fan of **graphic design** and skilled with **Adobe software** 
+- 🎨 A fan of **Graphic Design** and skilled with **Adobe Software** 
 
 - 📫 How to reach me **divaahmadpradana72@gmail.com**
 
-- ⚡ Fun fact **I really like playing games**
+- ⚡ Fun fact **I really like playing Games**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
