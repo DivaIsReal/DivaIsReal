@@ -41,18 +41,4 @@
 
 ---
 
-<div style="display: flex; justify-content: space-between; align-items: flex-start; margin-top: 20px;">
-  <!-- Most Used Languages -->
-  <div style="width: 48%;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=divaisreal&show_icons=true&locale=en&layout=compact" alt="Most Used Languages" style="width: 100%;" />
-  </div>
 
-  <!-- GitHub Stats -->
-  <div style="width: 48%;">
-    <img src="https://github-readme-stats.vercel.app/api?username=divaisreal&show_icons=true&locale=en" alt="GitHub Stats" style="width: 100%;" />
-  </div>
-</div>
-
-<div style="text-align: center; margin-top: 20px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=divaisreal" alt="GitHub Streak Stats" style="width: 100%;" />
-</div>
