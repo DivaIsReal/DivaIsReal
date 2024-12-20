@@ -16,7 +16,6 @@
 
 - ⚡ Fun fact: **I really like playing games**
 
----
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -40,7 +39,7 @@
   </a>
 </p>
 
----
+
 
 
 <p>
