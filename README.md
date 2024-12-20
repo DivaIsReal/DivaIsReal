@@ -42,6 +42,13 @@
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=DivaIsReal&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DivaIsReal&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+ <div style="width: 60%;">
+    <img src="https://github-readme-stats.vercel.app/api?username=DivaIsReal&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" style="width: 100%;" />
+  </div>
+
+  <!-- Most Used Languages -->
+  <div style="width: 60%;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DivaIsReal&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Most Used Languages" style="width: 100%;" />
+  </div>
+</div>
