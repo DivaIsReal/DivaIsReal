@@ -11,8 +11,6 @@
 
 - 🎨 A fan of **Graphic Design** and skilled with **Adobe Software** 
 
-- 📫 How to reach me **divaahmadpradana72@gmail.com**
-
 - ⚡ Fun fact **I really like playing Games**
 
 <h3 align="left">Connect with me:</h3>
