@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **Home**
 
-- 🌱 I’m currently learning **Javascript , React , Laravel , Tailwind**
+- 🌱 I’m currently learning **Javascript , React , Laravel ,**
 
-- 💬 Ask me about **Javascript**
+- 💬 Currently diving into the world of cyber security to enhance my technical skills.
 
 - 📫 How to reach me **divaahmadpradana72@gmail.com**
 
