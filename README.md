@@ -58,12 +58,4 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DivaIsReal&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
-
-
+![snake animation](https://github.com/<seu DivaIsReal>/<seu DivaIsReal>/blob/output/github-contribution-grid-snake2.svg)
