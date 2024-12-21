@@ -49,6 +49,9 @@
 <a href="https://discord.gg/diva" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" alt="diva" height="40" width="40" /></a>
 </p>
 
+<p align="left">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Profile views" />
+</p>
 
 # <h3>GitHub Stats</h3>
 ![](https://github-readme-stats.vercel.app/api?username=DivaIsReal&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
